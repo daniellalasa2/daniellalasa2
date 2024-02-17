@@ -8,7 +8,6 @@ I'm a passionate Front-end Developer with over 8 years of experience, currently 
 
 🔗 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/danial-lalasa)
-- [GitHub](https://github.com/daniellalasa2)
 - [Stack Overflow](https://stackoverflow.com/users/5866984/daniellalasa)
 
 ## 🔧 Technologies & Tools
