@@ -4,7 +4,7 @@
 
 I'm a passionate Front-end Developer with over 8 years of experience, currently innovating at Ginbits in Athens, Greece. My expertise lies in crafting exceptional user interfaces and applications, always exploring new technologies to deliver top-notch performance and quality. I'm a firm believer in sharing knowledge and encouraging growth within the tech community.
 
-📫 **How to reach me:** danial.lalasa@gmail.com
+📫 **How to reach me:** danial.lalasa@ginbits.com
 
 🔗 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/danial-lalasa)
