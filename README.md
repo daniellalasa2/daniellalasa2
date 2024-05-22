@@ -1,4 +1,4 @@
-# Hi there, I'm Danial Lalasa 👋
+# Hi there, I'm Daniel Lalasa 👋
 
 ### Front-end Engineer | React & JavaScript Aficionado
 
