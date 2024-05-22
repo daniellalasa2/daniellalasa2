@@ -2,7 +2,7 @@
 
 ### Front-end Engineer | React & JavaScript Aficionado
 
-I'm a passionate Front-end Developer with over 8 years of experience, currently innovating at Ginbits in Athens, Greece. My expertise lies in crafting exceptional user interfaces and applications, always exploring new technologies to deliver top-notch performance and quality. I'm a firm believer in sharing knowledge and encouraging growth within the tech community.
+I'm a passionate Front-end Developer with over 8 years of experience. My expertise lies in crafting exceptional user interfaces and applications, always exploring new technologies to deliver top-notch performance and quality. I'm a firm believer in sharing knowledge and encouraging growth within the tech community.
 
 📫 **How to reach me:** danial.lalasa@ginbits.com
 
