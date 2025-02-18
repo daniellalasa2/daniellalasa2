@@ -7,7 +7,7 @@ I’m a versatile software developer with over 10 years of experience building d
 ---
 
 ### 📫 How to reach me
-**danial.lalasa@ginbits.com**
+**danial.lalasa@gmail.com**
 
 ---
 
