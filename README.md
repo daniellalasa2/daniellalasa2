@@ -1,17 +1,16 @@
 # Hi there, I'm Daniel Lalasa 👋
 
-### Front-end Engineer | React & JavaScript Aficionado
+### Full-Stack Engineer | AI & Space Tech Enthusiast
 
-I'm a passionate Front-end Developer with over 8 years of experience. My expertise lies in crafting exceptional user interfaces and applications, always exploring new technologies to deliver top-notch performance and quality. I'm a firm believer in sharing knowledge and encouraging growth within the tech community.
+I’m a versatile software developer with over 10 years of experience building dynamic applications from front to back. My core focus is on creating seamless agentic AIs and user experiences while harnessing the power of emerging tech. I’m especially passionate about AI—where I explore ways to integrate intelligent solutions into everyday products—and Space Tech, continuously inspired by the possibilities of cosmic innovation. My goal is to share knowledge, foster collaboration, and push the boundaries of what's possible in software.
 
-📫 **How to reach me:** danial.lalasa@ginbits.com
+---
 
-🔗 **Connect with me:**
+### 📫 How to reach me
+**danial.lalasa@ginbits.com**
+
+---
+
+### 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/danial-lalasa)
 - [Stack Overflow](https://stackoverflow.com/users/5866984/daniellalasa)
-
-## 🔧 Technologies & Tools
-- **Front-end:** React.js, TypeScript, Vanilla JS, Next.js, Material UI, jQuery, Sass, Less, Storybook, Styled Components
-- **Back-end & DB:** Node.js, MongoDB, ExpressJs, Strapi
-- **Testing & DevOps:** Jest, Chai, Mocha, Cypress, React Testing Library, CI/CD Pipelines, Kubernetes, GitHub Actions
-- **Other Skills:** GraphQL, Atomic Design, SEO Optimization, Bash Scripting, React Native, PWA, SSR, CSR
